@@ -2,15 +2,6 @@
 
 A production-ready project template following the MVVM (Model-View-ViewModel) architecture, designed to quickly bootstrap scalable and maintainable Flutter projects. This brick provides a clear separation of concerns, a modular structure, and the best industry practices.
 
-## Features
-- **Solid MVVM Architecture**: A clear separation between the UI (View), business logic (ViewModel), and data layers.
-- **Scalable Folder Structure**: The `core` and `feature` modules make it easy for the project to grow.
-- **Dynamic Project Setup**: Creates a project customized for you by taking values like project name, organization name, and API address.
-- **Ready-to-use Network Layer**: A `Dio`-based, centrally configured network client that includes logging and error handling.
-- **Lightweight State Management**: A starting state management solution with Flutter's own `ChangeNotifier`, requiring no external packages.
-- **Base Classes**: A `BaseViewModel` that contains common behaviors for all ViewModels.
-
-
 ## How to Use
 
 1.  **Install Mason CLI** (if not already installed):
