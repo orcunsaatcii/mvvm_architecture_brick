@@ -29,7 +29,12 @@ A production-ready project template following the MVVM (Model-View-ViewModel) ar
 
 3.  **Create Your Project**:
     ```sh
-    mason make mvvm_architecture -o ./my_awesome_app
+    flutter create my_app
+    ```
+
+3.  **Make the Brick**:
+    ```sh
+    mason make mvvm_architecture
     ```
 
 
