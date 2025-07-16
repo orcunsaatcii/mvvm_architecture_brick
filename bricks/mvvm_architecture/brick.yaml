@@ -1,5 +1,5 @@
 name: mvvm_architecture
-description: A new brick created with the Mason CLI.
+description: A scalable and maintainable Flutter project template using the MVVM architecture.
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
