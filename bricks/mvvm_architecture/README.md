@@ -57,21 +57,6 @@ lib/
         └── view_model/     # ViewModel for business logic
 ```
 
-## Usage
-1. **Install Mason** (if you haven't):
-   ```sh
-   dart pub global activate mason_cli
-   ```
-2. **Add this brick**:
-   ```sh
-   mason add mvvm_architecture --source=brichub
-   ```
-3. **Generate your project**:
-   ```sh
-   mason make mvvm_architecture
-   ```
-4. **Start building!**
-
 ## About the Template
 - **core/**: Contains all reusable logic, services, and utilities shared across features.
 - **feature/**: Each feature is self-contained, with its own views and view models.
