@@ -62,4 +62,4 @@ lib/
 Feel free to open issues or submit pull requests to improve this template!
 
 ---
-[1]: https://github.com/orcunsaatcii
+[1]: https://github.com/orcunsaatcii/mvvm_architecture_brick

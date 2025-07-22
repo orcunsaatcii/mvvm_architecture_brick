@@ -1,5 +1,5 @@
-# 0.1.0+1
+# 0.2.1+3
 
-- Initial release of the MVVM Architecture brick.
-- Includes a modular structure with core and feature separation.
-- Provides a basic template for a Home feature.
+- cache folder added
+- providers folder added
+- service folder is now split into 2 subfolders (analytics - api)
